@@ -1,4 +1,4 @@
-# Form CSS training
+# Grid Landig Page with JS Slider
 
 This is a solution to the Weekly Webdev Challenge.
 
